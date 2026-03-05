@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Nada
 
-<!--
-**nadatopalovic06-hub/nadatopalovic06-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Applied mathematics student  
+💻 Passionate about programming and data analysis.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Technologies
+- Python
+- Git & GitHub
+- Machine Learning basics
+- Data analysis
+
+---
+
+##  Projects
+Some of the projects on my GitHub include:
+
+- 🐟 Fish weight prediction using regression
+- 🐧 Penguin classification using logistic regression
+- 🧮 Python programming tasks and algorithms
+
+---
+
+## 🌱 Currently learning
+
+- Machine Learning
+- Data Science
+- Python libraries for data analysis (pandas, matplotlib, seaborn)
