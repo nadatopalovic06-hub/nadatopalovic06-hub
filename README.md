@@ -15,8 +15,7 @@
 
 ##  Projects
 Some of the projects on my GitHub include:
-
-- 🐟 Fish weight prediction using regression
+-👩‍💼 Employee Management / Data Analysis – manages and analyzes employee records using Python
 - 🐧 Penguin classification using logistic regression
 - 🧮 Python programming tasks and algorithms
 
